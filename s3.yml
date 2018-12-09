@@ -1,0 +1,10 @@
+
+es:
+  url: https://vpc-es-asd-qwe-us3v7ksli2iiba2xjk7w7gct7m.us-east-1.es.amazonaws.com
+s3:
+  region: us-east-1
+  endpoint: s3.us-east-1.amazonaws.com
+documents:
+  bucket: zuhravlov.archive.public
+  timeout: 300
+  index : custom.index

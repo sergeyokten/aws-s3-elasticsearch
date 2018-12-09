@@ -1,0 +1,10 @@
+s3:
+  region: eu-west-1
+  endpoint: http://localhost:4572
+es:
+  url: http://localhost:9200
+documents:
+  bucket: serjz-bucket
+  timeout: 300
+  index: documents
+

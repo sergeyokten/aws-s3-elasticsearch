@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: upload-documents
+s3:
+  region: ~
+  endpoint: ~
+documents:
+  bucket: ~
+  uploadTimeout: ~
